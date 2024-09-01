@@ -17,6 +17,6 @@ I've collaborated in a project developing a desktop application using Java and c
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwayne9078&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
