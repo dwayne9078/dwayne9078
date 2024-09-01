@@ -1,5 +1,6 @@
 # Hey there 👋, Pablo here!
-Enthusiast Backend Developer, always willing to develop with different technologies 
+An enthusiast Backend Developer, eager to develop with different technologies and collaborate with
+many people 😊
 ## 💫 About Me:
 * 🔭 I’m currently working on PHP Chat
 * 👯 I’m looking to collaborate on
